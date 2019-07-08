@@ -1,0 +1,17 @@
+{
+  "name": "spryker-feature/comments",
+  "description": "Comments [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/customer-account-management": "^201907.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201907.x-dev"
+    }
+  }
+}
