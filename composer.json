@@ -7,7 +7,10 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "^201907.0"
+    "spryker-feature/customer-account-management": "^201907.0",
+    "spryker-shop/comment-widget": "^1.0.0",
+    "spryker/comment": "^1.0.0",
+    "spryker/comment-data-import": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
