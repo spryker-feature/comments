@@ -7,3 +7,12 @@ With Comments, you can add multiple comments to any entity. The feature has been
 ```
 composer require spryker-feature/comments
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/customer-account-management](https://github.com/spryker-feature/customer-account-management)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [CommentSalesConnector ^1.0.0](https://github.com/spryker/comment-sales-connector) (Connector)
+- [Shop.CommentWidgetExtension ^1.0.0](https://github.com/spryker-shop/comment-widget-extension) (Extension)
