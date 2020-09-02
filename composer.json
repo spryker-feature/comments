@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/comment-widget": "^1.0.0",
+    "spryker-shop/comment-widget": "^1.2.0",
     "spryker/comment": "^1.0.0",
     "spryker/comment-data-import": "^0.1.0"
   },
