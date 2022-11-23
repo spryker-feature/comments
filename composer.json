@@ -6,14 +6,14 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/comment-widget": "^1.2.0",
-        "spryker/comment": "^1.1.0",
+        "spryker/comment": "^1.2.0",
         "spryker/comment-data-import": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     },
     "suggest": {
