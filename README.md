@@ -15,5 +15,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [CommentExtension ^1.0.0](https://github.com/spryker/comment-extension) (Extension)
-- [CommentSalesConnector ^1.0.0](https://github.com/spryker/comment-sales-connector) (Connector)
+- [CommentSalesConnector ^1.1.0](https://github.com/spryker/comment-sales-connector) (Connector)
 - [Shop.CommentWidgetExtension ^1.0.0](https://github.com/spryker-shop/comment-widget-extension) (Extension)
