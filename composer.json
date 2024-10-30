@@ -7,8 +7,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/comment-widget": "^1.3.0",
-        "spryker/comment": "^1.4.0",
+        "spryker-shop/comment-widget": "^1.4.0",
+        "spryker/comment": "^1.5.0",
         "spryker/comment-data-import": "^0.1.0",
         "spryker/comment-gui": "^1.0.0"
     },
